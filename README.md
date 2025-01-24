@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/ssssubin/sql_practice/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/ssssubin/sql_practice/tree/master/0607-sales-person) |
 | [0627-swap-salary](https://github.com/ssssubin/sql_practice/tree/master/0627-swap-salary) |
+| [1301-reformat-department-table](https://github.com/ssssubin/sql_practice/tree/master/1301-reformat-department-table) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/ssssubin/sql_practice/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1625-group-sold-products-by-the-date](https://github.com/ssssubin/sql_practice/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/ssssubin/sql_practice/tree/master/1664-find-users-with-valid-e-mails) |
