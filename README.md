@@ -17,4 +17,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1670-patients-with-a-condition](https://github.com/ssssubin/sql_practice/tree/master/1670-patients-with-a-condition) |
 | [1734-bank-account-summary-ii](https://github.com/ssssubin/sql_practice/tree/master/1734-bank-account-summary-ii) |
 | [1811-fix-names-in-a-table](https://github.com/ssssubin/sql_practice/tree/master/1811-fix-names-in-a-table) |
+| [1837-daily-leads-and-partners](https://github.com/ssssubin/sql_practice/tree/master/1837-daily-leads-and-partners) |
 <!---LeetCode Topics End-->
