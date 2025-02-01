@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-salary](https://github.com/ssssubin/sql_practice/tree/master/0627-swap-salary) |
 | [1301-reformat-department-table](https://github.com/ssssubin/sql_practice/tree/master/1301-reformat-department-table) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/ssssubin/sql_practice/tree/master/1462-list-the-products-ordered-in-a-period) |
+| [1523-capital-gainloss](https://github.com/ssssubin/sql_practice/tree/master/1523-capital-gainloss) |
 | [1541-top-travellers](https://github.com/ssssubin/sql_practice/tree/master/1541-top-travellers) |
 | [1625-group-sold-products-by-the-date](https://github.com/ssssubin/sql_practice/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/ssssubin/sql_practice/tree/master/1664-find-users-with-valid-e-mails) |
