@@ -21,4 +21,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-daily-leads-and-partners](https://github.com/ssssubin/sql_practice/tree/master/1837-daily-leads-and-partners) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/ssssubin/sql_practice/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [2041-the-latest-login-in-2020](https://github.com/ssssubin/sql_practice/tree/master/2041-the-latest-login-in-2020) |
+| [2110-employees-with-missing-information](https://github.com/ssssubin/sql_practice/tree/master/2110-employees-with-missing-information) |
 <!---LeetCode Topics End-->
