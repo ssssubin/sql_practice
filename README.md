@@ -27,4 +27,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2041-the-latest-login-in-2020](https://github.com/ssssubin/sql_practice/tree/master/2041-the-latest-login-in-2020) |
 | [2057-count-salary-categories](https://github.com/ssssubin/sql_practice/tree/master/2057-count-salary-categories) |
 | [2110-employees-with-missing-information](https://github.com/ssssubin/sql_practice/tree/master/2110-employees-with-missing-information) |
+| [3767-find-students-who-improved](https://github.com/ssssubin/sql_practice/tree/master/3767-find-students-who-improved) |
 <!---LeetCode Topics End-->
