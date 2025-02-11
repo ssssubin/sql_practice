@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/ssssubin/sql_practice/tree/master/0607-sales-person) |
 | [0620-not-boring-movies](https://github.com/ssssubin/sql_practice/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/ssssubin/sql_practice/tree/master/0627-swap-salary) |
+| [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/ssssubin/sql_practice/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1268-market-analysis-i](https://github.com/ssssubin/sql_practice/tree/master/1268-market-analysis-i) |
 | [1301-reformat-department-table](https://github.com/ssssubin/sql_practice/tree/master/1301-reformat-department-table) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/ssssubin/sql_practice/tree/master/1462-list-the-products-ordered-in-a-period) |
