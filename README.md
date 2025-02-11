@@ -30,4 +30,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-count-salary-categories](https://github.com/ssssubin/sql_practice/tree/master/2057-count-salary-categories) |
 | [2110-employees-with-missing-information](https://github.com/ssssubin/sql_practice/tree/master/2110-employees-with-missing-information) |
 | [3767-find-students-who-improved](https://github.com/ssssubin/sql_practice/tree/master/3767-find-students-who-improved) |
+| [3782-find-valid-emails](https://github.com/ssssubin/sql_practice/tree/master/3782-find-valid-emails) |
 <!---LeetCode Topics End-->
