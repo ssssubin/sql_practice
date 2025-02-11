@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/ssssubin/sql_practice/tree/master/0595-big-countries) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/ssssubin/sql_practice/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0607-sales-person](https://github.com/ssssubin/sql_practice/tree/master/0607-sales-person) |
+| [0620-not-boring-movies](https://github.com/ssssubin/sql_practice/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/ssssubin/sql_practice/tree/master/0627-swap-salary) |
 | [1268-market-analysis-i](https://github.com/ssssubin/sql_practice/tree/master/1268-market-analysis-i) |
 | [1301-reformat-department-table](https://github.com/ssssubin/sql_practice/tree/master/1301-reformat-department-table) |
