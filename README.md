@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/ssssubin/sql_practice/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/ssssubin/sql_practice/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/ssssubin/sql_practice/tree/master/0577-employee-bonus) |
+| [0585-investments-in-2016](https://github.com/ssssubin/sql_practice/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/ssssubin/sql_practice/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/ssssubin/sql_practice/tree/master/0595-big-countries) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/ssssubin/sql_practice/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
