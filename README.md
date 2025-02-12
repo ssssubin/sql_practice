@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-salary](https://github.com/ssssubin/sql_practice/tree/master/0627-swap-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/ssssubin/sql_practice/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1161-project-employees-i](https://github.com/ssssubin/sql_practice/tree/master/1161-project-employees-i) |
+| [1179-game-play-analysis-i](https://github.com/ssssubin/sql_practice/tree/master/1179-game-play-analysis-i) |
 | [1268-market-analysis-i](https://github.com/ssssubin/sql_practice/tree/master/1268-market-analysis-i) |
 | [1301-reformat-department-table](https://github.com/ssssubin/sql_practice/tree/master/1301-reformat-department-table) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/ssssubin/sql_practice/tree/master/1462-list-the-products-ordered-in-a-period) |
