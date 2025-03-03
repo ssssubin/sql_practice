@@ -1,0 +1,6 @@
+-- 코드를 작성해주세요
+-- 희귀도가 LEGEND인 아이템들의 각겨의 총합
+-- 컬럼명은 TOTAL_PRICE
+SELECT SUM(PRICE) AS TOTAL_PRICE
+FROM ITEM_INFO
+WHERE RARITY = "LEGEND";
