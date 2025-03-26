@@ -1,0 +1,11 @@
+-- 코드를 입력하세요
+-- 아직 입양 못 간 동물 중 가장 오래 보호소에 있던
+-- 동물 3마리 이름, 보호 시작일 조회
+-- 보호 시작일 순으로
+SELECT AI.NAME, AI.DATETIME
+FROM ANIMAL_INS AS AI
+LEFT JOIN ANIMAL_OUTS AS AO
+ON AI.ANIMAL_ID = AO.ANIMAL_ID
+WHERE AO.DATETIME IS NULL
+ORDER BY AI.DATETIME
+LIMIT 3;
