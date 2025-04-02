@@ -1,0 +1,9 @@
+-- 코드를 작성해주세요
+-- 물고기의 종류별 물고기 이름(FISH_NAME) & 잡은 수(FISH_COUNT)
+-- 잡은 수 기준 내림차순
+SELECT COUNT(fi.ID) AS FISH_COUNT, fni.FISH_NAME
+FROM FISH_INFO AS fi
+INNER JOIN FISH_NAME_INFO AS fni
+ON fi.FISH_TYPE = fni.FISH_TYPE
+GROUP BY fni.FISH_NAME
+ORDER BY COUNT(fi.ID) DESC;
