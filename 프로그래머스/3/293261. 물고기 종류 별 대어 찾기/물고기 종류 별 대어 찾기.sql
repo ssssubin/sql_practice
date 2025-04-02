@@ -1,0 +1,13 @@
+-- 코드를 작성해주세요
+-- 물고기 종류 별 가장 큰 물고기 id(ID), 이름(FISH_NAME), 길이(LENGTH)
+-- 물고기 id 오름차순
+SELECT fi.id, r.FISH_NAME, fi.LENGTH 
+FROM FISH_INFO AS fi 
+INNER JOIN 
+(SELECT fni.FISH_TYPE, fni.FISH_NAME, MAX(fi.LENGTH) AS LENGTH 
+FROM FISH_INFO AS fi
+INNER JOIN FISH_NAME_INFO AS fni
+ON fi.FISH_TYPE = fni.FISH_TYPE
+GROUP BY fni.FISH_NAME, fni.FISH_TYPE) AS r
+ON fi.FISH_TYPE = r.FISH_TYPE AND fi.LENGTH = r.LENGTH
+ORDER BY id;
