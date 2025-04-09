@@ -1,0 +1,10 @@
+-- 코드를 입력하세요
+-- 동일한 회원이 동일한 상품을 재구매한 데이터 구하여
+-- 재구매한 회원 ID, 재구매한 상품 ID
+-- 회원 ID 오름차순 , 상품 ID 내림차순
+SELECT USER_ID, PRODUCT_ID 
+FROM (SELECT USER_ID, PRODUCT_ID, COUNT(PRODUCT_ID) AS COUNT
+      FROM ONLINE_SALE
+      GROUP BY PRODUCT_ID, USER_ID) AS RESULT
+WHERE COUNT >= 2
+ORDER BY USER_ID, PRODUCT_ID DESC;
